@@ -1,12 +1,10 @@
-# Entorno virtual
-venv/
-env/
-enotorno_virtual/
 
-# Archivos de Python
-__pycache__/
+venv
+env
+enotorno_virtual
+
+__pycache__
 *.pyc
 *.pyo
 
-# Variables de entorno
 .env
